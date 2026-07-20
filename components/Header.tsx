@@ -21,7 +21,8 @@ export default function Header() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16 sm:h-[72px]">
           <Link href="/" className="flex items-center min-w-0">
-            <Logo onDark showName />
+          <img src="/logo.png" alt="LOYAL FRIENDS STORE" className="h-12 w-auto" />
+          <span className="text-white text-2xl font-bold">LOYAL FRIENDS</span>
           </Link>
 
           <nav className="hidden md:flex items-center gap-8">
