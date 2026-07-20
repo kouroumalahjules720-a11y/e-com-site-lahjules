@@ -9,7 +9,8 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-10">
           <div className="md:col-span-2">
             <div className="mb-4">
-              <Logo onDark showName />
+            <img src="/logo.png" alt="LOYAL FRIENDS STORE" className="h-12 w-auto" />
+            <span className="text-white text-2xl font-bold ml-3">LOYAL FRIENDS STORE</span>
             </div>
             <p className="text-white/70 max-w-md leading-relaxed">
               LOYAL FRIENDS STORE — Votre boutique premium en ligne. Des produits de
