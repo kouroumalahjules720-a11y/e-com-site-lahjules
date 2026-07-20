@@ -1,0 +1,134 @@
+[
+  {
+    "id": "prod_1",
+    "name": "Écouteurs Sans Fil Pro",
+    "slug": "ecouteurs-sans-fil-pro",
+    "description": "Son cristallin et réduction de bruit active",
+    "longDescription": "Découvrez une expérience audio exceptionnelle avec nos écouteurs sans fil Pro. Dotés d'une réduction de bruit active de dernière génération, d'une autonomie de 30 heures et d'un design ergonomique premium. Parfaits pour le travail, le sport ou la détente.",
+    "price": 45000,
+    "compareAtPrice": 65000,
+    "categoryId": "cat_1",
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=600&h=600&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=600&h=600&fit=crop"
+    ],
+    "featured": true,
+    "inStock": true,
+    "tags": ["audio", "sans-fil", "premium"]
+  },
+  {
+    "id": "prod_2",
+    "name": "Montre Connectée Elite",
+    "slug": "montre-connectee-elite",
+    "description": "Suivi santé complet et design élégant",
+    "longDescription": "La montre connectée Elite combine élégance et technologie. Suivez votre activité, votre sommeil et recevez vos notifications en un coup d'œil. Résistante à l'eau IP68, autonomie 7 jours.",
+    "price": 85000,
+    "compareAtPrice": 120000,
+    "categoryId": "cat_1",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&h=600&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&h=600&fit=crop"
+    ],
+    "featured": true,
+    "inStock": true,
+    "tags": ["montre", "connectée", "santé"]
+  },
+  {
+    "id": "prod_3",
+    "name": "Sac à Main Cuir Premium",
+    "slug": "sac-a-main-cuir-premium",
+    "description": "Cuir véritable, finitions artisanales",
+    "longDescription": "Sac à main en cuir véritable, confectionné à la main par des artisans locaux. Compartiments multiples, bandoulière amovible et finitions soignées pour un look intemporel.",
+    "price": 75000,
+    "categoryId": "cat_2",
+    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=600&h=600&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=600&h=600&fit=crop"
+    ],
+    "featured": true,
+    "inStock": true,
+    "tags": ["mode", "cuir", "accessoire"]
+  },
+  {
+    "id": "prod_4",
+    "name": "Lampe Design LED",
+    "slug": "lampe-design-led",
+    "description": "Éclairage ambiant réglable, design minimaliste",
+    "longDescription": "Apportez une touche de modernité à votre intérieur avec cette lampe LED au design épuré. Intensité réglable, température de couleur ajustable et consommation ultra-faible.",
+    "price": 35000,
+    "categoryId": "cat_3",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=600&h=600&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=600&h=600&fit=crop"
+    ],
+    "featured": false,
+    "inStock": true,
+    "tags": ["maison", "décoration", "led"]
+  },
+  {
+    "id": "prod_5",
+    "name": "Sérum Visage Vitamine C",
+    "slug": "serum-visage-vitamine-c",
+    "description": "Éclat et anti-âge, formule concentrée",
+    "longDescription": "Sérum visage enrichi en vitamine C pure à 20%. Illumine le teint, atténue les taches et stimule la production de collagène. Texture légère, absorption rapide.",
+    "price": 22000,
+    "compareAtPrice": 32000,
+    "categoryId": "cat_4",
+    "image": "https://images.unsplash.com/photo-1620916566390-2736e5f1d8b8?w=600&h=600&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1620916566390-2736e5f1d8b8?w=600&h=600&fit=crop"
+    ],
+    "featured": true,
+    "inStock": true,
+    "tags": ["beauté", "soin", "visage"]
+  },
+  {
+    "id": "prod_6",
+    "name": "Enceinte Bluetooth Portable",
+    "slug": "enceinte-bluetooth-portable",
+    "description": "Son 360°, étanche IPX7",
+    "longDescription": "Enceinte portable avec son stéréo puissant à 360 degrés. Étanche IPX7, autonomie 12 heures. Parfaite pour vos sorties, pique-niques et soirées.",
+    "price": 38000,
+    "categoryId": "cat_1",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=600&h=600&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=600&h=600&fit=crop"
+    ],
+    "featured": false,
+    "inStock": true,
+    "tags": ["audio", "portable", "bluetooth"]
+  },
+  {
+    "id": "prod_7",
+    "name": "Sneakers Urban Classic",
+    "slug": "sneakers-urban-classic",
+    "description": "Confort quotidien, style intemporel",
+    "longDescription": "Sneakers au design classique revisité. Semelle amortissante, tige en mesh respirant et finitions premium. Disponibles du 38 au 45.",
+    "price": 42000,
+    "categoryId": "cat_2",
+    "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=600&h=600&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=600&h=600&fit=crop"
+    ],
+    "featured": false,
+    "inStock": true,
+    "tags": ["mode", "chaussures", "sport"]
+  },
+  {
+    "id": "prod_8",
+    "name": "Diffuseur Huiles Essentielles",
+    "slug": "diffuseur-huiles-essentielles",
+    "description": "Ultrasonique, 7 couleurs LED",
+    "longDescription": "Diffuseur ultrasonique silencieux avec réservoir de 300ml. 7 modes d'éclairage LED, arrêt automatique et design en bois naturel.",
+    "price": 28000,
+    "categoryId": "cat_3",
+    "image": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?w=600&h=600&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?w=600&h=600&fit=crop"
+    ],
+    "featured": false,
+    "inStock": true,
+    "tags": ["maison", "bien-être", "aromathérapie"]
+  }
+]

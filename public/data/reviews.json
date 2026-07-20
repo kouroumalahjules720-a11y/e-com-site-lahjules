@@ -1,0 +1,42 @@
+[
+  {
+    "id": "rev_1",
+    "productId": "prod_1",
+    "author": "Marie K.",
+    "rating": 5,
+    "comment": "Qualité sonore exceptionnelle ! La réduction de bruit est vraiment efficace.",
+    "date": "2025-11-15"
+  },
+  {
+    "id": "rev_2",
+    "productId": "prod_1",
+    "author": "Jean-Paul M.",
+    "rating": 4,
+    "comment": "Très bon produit, autonomie correcte. Livraison rapide.",
+    "date": "2025-12-02"
+  },
+  {
+    "id": "rev_3",
+    "productId": "prod_2",
+    "author": "Sophie L.",
+    "rating": 5,
+    "comment": "Design magnifique et fonctionnalités complètes. Je recommande !",
+    "date": "2025-10-28"
+  },
+  {
+    "id": "rev_4",
+    "productId": "prod_3",
+    "author": "Amina B.",
+    "rating": 5,
+    "comment": "Cuir de très bonne qualité, finitions impeccables.",
+    "date": "2025-11-20"
+  },
+  {
+    "id": "rev_5",
+    "productId": "prod_5",
+    "author": "Claire D.",
+    "rating": 4,
+    "comment": "Ma peau est plus lumineuse après 2 semaines d'utilisation.",
+    "date": "2025-12-10"
+  }
+]

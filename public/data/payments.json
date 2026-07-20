@@ -1,0 +1,25 @@
+[
+  {
+    "id": "pay_1",
+    "name": "Orange Money",
+    "type": "orange_money",
+    "number": "627081650",
+    "instructions": "Envoyez le montant au numéro ci-dessus puis envoyez la capture par WhatsApp.",
+    "active": true
+  },
+  {
+    "id": "pay_2",
+    "name": "MTN MoMo",
+    "type": "mtn_momo",
+    "number": "663003048",
+    "instructions": "Effectuez le transfert MoMo puis confirmez par WhatsApp avec votre code commande.",
+    "active": true
+  },
+  {
+    "id": "pay_3",
+    "name": "Paiement à la livraison",
+    "type": "cash_on_delivery",
+    "instructions": "Payez en espèces à la réception de votre commande. Frais de livraison applicables.",
+    "active": true
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "id": "order_1",
+    "code": "CMD-X7K2M9",
+    "customerName": "Thomas N.",
+    "customerPhone": "224627081650",
+    "items": [
+      {
+        "productId": "prod_1",
+        "name": "Écouteurs Sans Fil Pro",
+        "price": 45000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 45000,
+    "discount": 0,
+    "total": 45000,
+    "paymentMethod": "Orange Money",
+    "status": "delivered",
+    "createdAt": "2025-11-01T10:30:00.000Z"
+  },
+  {
+    "id": "order_2",
+    "code": "CMD-P4R8T2",
+    "customerName": "Fatou S.",
+    "customerPhone": "224627081650",
+    "items": [
+      {
+        "productId": "prod_3",
+        "name": "Sac à Main Cuir Premium",
+        "price": 75000,
+        "quantity": 1
+      },
+      {
+        "productId": "prod_5",
+        "name": "Sérum Visage Vitamine C",
+        "price": 22000,
+        "quantity": 2
+      }
+    ],
+    "subtotal": 119000,
+    "discount": 11900,
+    "total": 107100,
+    "promoCode": "WELCOME10",
+    "paymentMethod": "MTN MoMo",
+    "status": "shipped",
+    "createdAt": "2026-06-05T14:15:00.000Z"
+  }
+]
