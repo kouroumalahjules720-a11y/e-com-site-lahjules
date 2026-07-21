@@ -22,7 +22,7 @@ export default function Header() {
         <div className="flex items-center justify-between h-16 sm:h-[72px]">
         <Link href="/" className="flex items-center min-w-0 gap-3">
   <img src="/logo.png" alt="LOYAL FRIENDS STORE" className="h-12 w-auto" />
-  <span className="text-white text-2xl font-bold">LOYAL FRIENDS</span>
+  <span className="text-white text-2xl font-bold">LOYAL FRIENDS STORE</span>
     </Link>
 
           <nav className="hidden md:flex items-center gap-8">
