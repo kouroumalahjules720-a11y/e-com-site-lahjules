@@ -10,7 +10,7 @@ export default function Footer() {
           <div className="md:col-span-2">
             <div className="mb-4">
             <img src="/logo.png" alt="LOYAL FRIENDS STORE" className="h-12 w-auto" />
-            <span className="text-white text-2xl font-bold ml-3">LOYAL FRIENDS STORE</span>
+            <span className="text-white text-2xl font-bold ml-3">LOYAL  FRIENDS STORE</span>
             </div>
             <p className="text-white/70 max-w-md leading-relaxed">
               LOYAL FRIENDS STORE — Votre boutique premium en ligne. Des produits de
